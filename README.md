@@ -10,9 +10,9 @@
 - 🐟 Fun fact: If a video game lets me name my player character, I name them after a species of fish. (My Elden Ring character is named Marlin) 🐟
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/5a8c6902c3fc6acedd06a6970a35e9c4/e2d16eabf0fe9307-88/s540x810/403a16b542f293e0f3069feb737a3574fed75c31.pnj">
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/980487cbb91b14d9c8380106c35f1417/7f60a49f01de9d08-66/s540x810/cd7ac15dd724ccf01ff14b43473a13844c266fdc.pnj">
  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/980487cbb91b14d9c8380106c35f1417/7f60a49f01de9d08-66/s540x810/cd7ac15dd724ccf01ff14b43473a13844c266fdc.pnj">
- <img alt="In light mode and default mode, a drawing of a knight seemingly submerged in water, covered in coral with an imagery of a coelacanth at the bottom. In dark mode, a surrealistic drawing of a mess of gold rings, deep blue wings and red ribbons, with eyes in the middle of the rings." src="https://64.media.tumblr.com/980487cbb91b14d9c8380106c35f1417/7f60a49f01de9d08-66/s540x810/cd7ac15dd724ccf01ff14b43473a13844c266fdc.pnj">
+ <img alt="A drawing of a knight seemingly submerged in water, covered in coral with an imagery of a coelacanth at the bottom." src="https://64.media.tumblr.com/980487cbb91b14d9c8380106c35f1417/7f60a49f01de9d08-66/s540x810/cd7ac15dd724ccf01ff14b43473a13844c266fdc.pnj">
 </picture>
 
 <details>
