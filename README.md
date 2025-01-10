@@ -18,7 +18,7 @@
 <details>
 <summary>Extra backstory:</summary>
 
-I took an official University course on the basics of programming in Python. The form of it was independent studying with online programming homework and weekly online lectures. I failed my first attempt at the final test, but I am allowed to try again and I will. I believe I have a decent base in programming, my problem solving skills are fairly good and I need to get out of tutorial hell. And there is still a lot to learn, which I am still doing with great interest.
+I took an official University course on the basics of programming in Python. I believe I have a decent base in programming, my problem solving skills are fairly good and I need to get out of tutorial hell. And there is still a lot to learn, which I am still doing with great interest.
 
 I also like art. Subjects I like drawing are surrealism, eldritch stuff and comics.
 
